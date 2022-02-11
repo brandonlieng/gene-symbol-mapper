@@ -1,0 +1,326 @@
+﻿PathwayID,PathwayName,Species,Include,Collapse,Remarks
+R-HSA-73843,5-Phosphoribose 1-diphosphate biosynthesis,Homo sapiens,TRUE,R-HSA-71336,
+R-HSA-1971475,A tetrasaccharide linker sequence is required for GAG synthesis,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-9033807,ABO blood group biosynthesis,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-163680,AMPK inhibits chREBP transcriptional activation activity,Homo sapiens,TRUE,,
+R-HSA-2161541,Abacavir metabolism,Homo sapiens,FALSE,,Not relevant
+R-HSA-2161517,Abacavir transmembrane transport,Homo sapiens,FALSE,,Not relevant
+R-HSA-2161522,Abacavir transport and metabolism,Homo sapiens,FALSE,,Not relevant
+R-HSA-156582,Acetylation,Homo sapiens,TRUE,,
+R-HSA-399997,Acetylcholine regulates insulin secretion,Homo sapiens,FALSE,,Not relevant
+R-HSA-2426168,Activation of gene expression by SREBF (SREBP),Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-1482798,Acyl chain remodeling of CL,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-1482883,Acyl chain remodeling of DAG and TAG,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-1482788,Acyl chain remodelling of PC,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-1482839,Acyl chain remodelling of PE,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-1482925,Acyl chain remodelling of PG,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-1482922,Acyl chain remodelling of PI,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-1482801,Acyl chain remodelling of PS,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion",Homo sapiens,FALSE,,Not relevant
+R-HSA-5423646,Aflatoxin activation and detoxification,Homo sapiens,FALSE,,Not relevant
+R-HSA-351143,Agmatine biosynthesis,Homo sapiens,TRUE,R-HSA-351202,
+R-HSA-8964540,Alanine metabolism,Homo sapiens,TRUE,,
+R-HSA-389599,Alpha-oxidation of phytanate,Homo sapiens,TRUE,R-HSA-390918,
+R-HSA-140179,Amine Oxidase reactions,Homo sapiens,TRUE,,
+R-HSA-156587,Amino Acid conjugation,Homo sapiens,TRUE,,
+R-HSA-193048,Androgen biosynthesis,Homo sapiens,TRUE,R-HSA-196071,
+R-HSA-2142753,Arachidonic acid metabolism,Homo sapiens,TRUE,,
+R-HSA-211957,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-8937144,Aryl hydrocarbon receptor signalling,Homo sapiens,TRUE,,
+R-HSA-8963693,Aspartate and asparagine metabolism,Homo sapiens,TRUE,,
+R-HSA-77352,Beta oxidation of butanoyl-CoA to acetyl-CoA,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-77346,Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-77350,Beta oxidation of hexanoyl-CoA to butanoyl-CoA,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-77310,Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-77285,Beta oxidation of myristoyl-CoA to lauroyl-CoA,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-77348,Beta oxidation of octanoyl-CoA to hexanoyl-CoA,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-77305,Beta oxidation of palmitoyl-CoA to myristoyl-CoA,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-389887,Beta-oxidation of pristanoyl-CoA,Homo sapiens,TRUE,R-HSA-390918,
+R-HSA-390247,Beta-oxidation of very long chain fatty acids,Homo sapiens,TRUE,R-HSA-390918,
+R-HSA-194068,Bile acid and bile salt metabolism,Homo sapiens,FALSE,,Not relevant
+R-HSA-141333,Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB,Homo sapiens,TRUE,R-HSA-140179,
+R-HSA-211859,Biological oxidations,Homo sapiens,TRUE,,
+R-HSA-9018676,Biosynthesis of D-series resolvins,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9018677,Biosynthesis of DHA-derived SPMs,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9026395,Biosynthesis of DHA-derived sulfido conjugates,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9018683,Biosynthesis of DPA-derived SPMs,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9025094,Biosynthesis of DPAn-3 SPMs,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9026403,Biosynthesis of DPAn-3-derived 13-series resolvins,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9026290,Biosynthesis of DPAn-3-derived maresins,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9026286,Biosynthesis of DPAn-3-derived protectins and resolvins,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9025106,Biosynthesis of DPAn-6 SPMs,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9023661,Biosynthesis of E-series 18(R)-resolvins,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9018896,Biosynthesis of E-series 18(S)-resolvins,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9018679,Biosynthesis of EPA-derived SPMs,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9020265,Biosynthesis of aspirin-triggered D-series resolvins,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9027604,Biosynthesis of electrophilic œâ-3 PUFA oxo-derivatives,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9026762,Biosynthesis of maresin conjugates in tissue regeneration (MCTR),Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9027307,Biosynthesis of maresin-like SPMs,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9018682,Biosynthesis of maresins,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9026766,Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR),Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9018681,Biosynthesis of protectins,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-9018678,Biosynthesis of specialized proresolving mediators (SPMs),Homo sapiens,FALSE,,Not relevant
+R-HSA-196780,Biotin transport and metabolism,Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-9033658,Blood group systems biosynthesis,Homo sapiens,FALSE,,Not relevant
+R-HSA-70895,Branched-chain amino acid catabolism,Homo sapiens,TRUE,,
+R-HSA-140180,COX reactions,Homo sapiens,TRUE,,
+R-HSA-2024101,CS/DS degradation,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-211999,CYP2E1 reactions,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-200425,Carnitine metabolism,Homo sapiens,TRUE,,
+R-HSA-71262,Carnitine synthesis,Homo sapiens,TRUE,,
+R-HSA-209905,Catecholamine biosynthesis,Homo sapiens,TRUE,R-HSA-209776,
+R-HSA-163765,ChREBP activates metabolic gene expression,Homo sapiens,TRUE,,
+R-HSA-191273,Cholesterol biosynthesis,Homo sapiens,TRUE,,
+R-HSA-6807047,Cholesterol biosynthesis via desmosterol,Homo sapiens,TRUE,R-HSA-191273,
+R-HSA-6807062,Cholesterol biosynthesis via lathosterol,Homo sapiens,TRUE,R-HSA-191273,
+R-HSA-6798163,Choline catabolism,Homo sapiens,TRUE,,
+R-HSA-2022870,Chondroitin sulfate biosynthesis,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-1793185,Chondroitin sulfate/dermatan sulfate metabolism,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-71403,Citric acid cycle (TCA cycle),Homo sapiens,TRUE,,
+R-HSA-196741,"Cobalamin (Cbl, vitamin B12) transport and metabolism",Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-196783,Coenzyme A biosynthesis,Homo sapiens,TRUE,,
+R-HSA-6799198,Complex I biogenesis,Homo sapiens,TRUE,R-HSA-163200,
+R-HSA-177135,Conjugation of benzoate with glycine,Homo sapiens,TRUE,R-HSA-156587,
+R-HSA-159424,Conjugation of carboxylic acids,Homo sapiens,TRUE,R-HSA-156587,
+R-HSA-177162,Conjugation of phenylacetate with glutamine,Homo sapiens,TRUE,R-HSA-156587,
+R-HSA-177128,Conjugation of salicylate with glycine,Homo sapiens,TRUE,R-HSA-156587,
+R-HSA-71288,Creatine metabolism,Homo sapiens,TRUE,,
+R-HSA-1614603,Cysteine formation from homocysteine,Homo sapiens,TRUE,,
+R-HSA-211897,Cytochrome P450 - arranged by substrate type,Homo sapiens,TRUE,,
+R-HSA-2564830,Cytosolic iron-sulfur cluster assembly,Homo sapiens,TRUE,,
+R-HSA-156584,Cytosolic sulfonation of small molecules,Homo sapiens,TRUE,,
+R-HSA-1614558,Degradation of cysteine and homocysteine,Homo sapiens,TRUE,,
+R-HSA-2022923,Dermatan sulfate biosynthesis,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-211979,Eicosanoids,Homo sapiens,TRUE,,
+R-HSA-2395516,Electron transport from NADPH to Ferredoxin,Homo sapiens,TRUE,R-HSA-1362409,
+R-HSA-211976,Endogenous sterols,Homo sapiens,TRUE,,
+R-HSA-193144,Estrogen biosynthesis,Homo sapiens,TRUE,R-HSA-196071,
+R-HSA-71384,Ethanol oxidation,Homo sapiens,TRUE,,
+R-HSA-217271,FMO oxidises nucleophiles,Homo sapiens,TRUE,,
+R-HSA-434316,Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion,Homo sapiens,FALSE,,Not relevant
+R-HSA-8978868,Fatty acid metabolism,Homo sapiens,TRUE,,
+R-HSA-211935,Fatty acids,Homo sapiens,TRUE,,
+R-HSA-75105,Fatty acyl-CoA biosynthesis,Homo sapiens,TRUE,,
+R-HSA-163210,Formation of ATP by chemiosmotic coupling,Homo sapiens,TRUE,R-HSA-163200,
+R-HSA-2408499,Formation of selenosugars for excretion,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-173599,"Formation of the active cofactor, UDP-glucuronate",Homo sapiens,TRUE,R-HSA-156588,
+R-HSA-5661270,Formation of xylulose-5-phosphate,Homo sapiens,TRUE,,
+R-HSA-400451,Free fatty acids regulate insulin secretion,Homo sapiens,FALSE,,Not relevant
+R-HSA-5652227,Fructose biosynthesis,Homo sapiens,TRUE,R-HSA-5652084,
+R-HSA-70350,Fructose catabolism,Homo sapiens,TRUE,R-HSA-5652084,
+R-HSA-5652084,Fructose metabolism,Homo sapiens,TRUE,,
+R-HSA-70370,Galactose catabolism,Homo sapiens,TRUE,,
+R-HSA-163359,Glucagon signaling in metabolic regulation,Homo sapiens,FALSE,,Not relevant
+R-HSA-381676,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,Homo sapiens,FALSE,,Not relevant
+R-HSA-194002,Glucocorticoid biosynthesis,Homo sapiens,TRUE,R-HSA-196071,
+R-HSA-70263,Gluconeogenesis,Homo sapiens,TRUE,,
+R-HSA-70326,Glucose metabolism,Homo sapiens,TRUE,,
+R-HSA-156588,Glucuronidation,Homo sapiens,TRUE,,
+R-HSA-8964539,Glutamate and glutamine metabolism,Homo sapiens,TRUE,,
+R-HSA-156590,Glutathione conjugation,Homo sapiens,TRUE,,
+R-HSA-174403,Glutathione synthesis and recycling,Homo sapiens,TRUE,R-HSA-156590,
+R-HSA-1483206,Glycerophospholipid biosynthesis,Homo sapiens,TRUE,,
+R-HSA-6814848,Glycerophospholipid catabolism,Homo sapiens,TRUE,,
+R-HSA-6783984,Glycine degradation,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-70221,Glycogen breakdown (glycogenolysis),Homo sapiens,TRUE,,
+R-HSA-8982491,Glycogen metabolism,Homo sapiens,TRUE,,
+R-HSA-3322077,Glycogen synthesis,Homo sapiens,TRUE,,
+R-HSA-70171,Glycolysis,Homo sapiens,TRUE,,
+R-HSA-1630316,Glycosaminoglycan metabolism,Homo sapiens,TRUE,,
+R-HSA-1660662,Glycosphingolipid metabolism,Homo sapiens,TRUE,,
+R-HSA-389661,Glyoxylate metabolism and glycine degradation,Homo sapiens,FALSE,,Not relevant
+R-HSA-2022928,HS-GAG biosynthesis,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-2024096,HS-GAG degradation,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-189451,Heme biosynthesis,Homo sapiens,FALSE,,Not relevant
+R-HSA-189483,Heme degradation,Homo sapiens,FALSE,,Not relevant
+R-HSA-1638091,Heparan sulfate/heparin (HS-GAG) metabolism,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-70921,Histidine catabolism,Homo sapiens,TRUE,,
+R-HSA-2142850,Hyaluronan biosynthesis and export,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-2142845,Hyaluronan metabolism,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-2160916,Hyaluronan uptake and degradation,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-1483115,Hydrolysis of LPC,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-1483152,Hydrolysis of LPE,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-1855196,IP3 and IP4 transport between cytosol and nucleus,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1855229,IP6 and IP7 transport between cytosol and nucleus,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1855215,IPs transport between ER lumen and cytosol,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1855156,IPs transport between ER lumen and nucleus,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1855184,IPs transport between cytosol and ER lumen,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1855192,IPs transport between nucleus and ER lumen,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1855170,IPs transport between nucleus and cytosol,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1483249,Inositol phosphate metabolism,Homo sapiens,TRUE,,
+R-HSA-163754,Insulin effects increased synthesis of Xylulose-5-Phosphate,Homo sapiens,FALSE,,Not relevant
+R-HSA-163685,Integration of energy metabolism,Homo sapiens,TRUE,,
+R-HSA-880009,Interconversion of 2-oxoglutarate and 2-hydroxyglutarate,Homo sapiens,TRUE,R-HSA-71406,
+R-HSA-499943,Interconversion of nucleotide di- and triphosphates,Homo sapiens,TRUE,,
+R-HSA-351200,Interconversion of polyamines,Homo sapiens,TRUE,R-HSA-351202,
+R-HSA-434313,Intracellular metabolism of fatty acids regulates insulin secretion,Homo sapiens,FALSE,,Not relevant
+R-HSA-2022854,Keratan sulfate biosynthesis,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-2022857,Keratan sulfate degradation,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-1638074,Keratan sulfate/keratin metabolism,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-74182,Ketone body metabolism,Homo sapiens,TRUE,,
+R-HSA-5653890,Lactose synthesis,Homo sapiens,TRUE,,
+R-HSA-9037629,Lewis blood group biosynthesis,Homo sapiens,FALSE,,Not relevant
+R-HSA-2046105,Linoleic acid (LA) metabolism,Homo sapiens,TRUE,R-HSA-2046104,
+R-HSA-8964572,Lipid particle organization,Homo sapiens,TRUE,,
+R-HSA-71064,Lysine catabolism,Homo sapiens,TRUE,,
+R-HSA-8853383,Lysosomal oligosaccharide catabolism,Homo sapiens,TRUE,,
+R-HSA-5662702,Melanin biosynthesis,Homo sapiens,FALSE,,Not relevant
+R-HSA-1430728,Metabolism,Homo sapiens,TRUE,,
+R-HSA-209776,Metabolism of amine-derived hormones,Homo sapiens,TRUE,,
+R-HSA-71291,Metabolism of amino acids and derivatives,Homo sapiens,TRUE,,
+R-HSA-71387,Metabolism of carbohydrates,Homo sapiens,TRUE,,
+R-HSA-8978934,Metabolism of cofactors,Homo sapiens,TRUE,,
+R-HSA-6806667,Metabolism of fat-soluble vitamins,Homo sapiens,TRUE,,
+R-HSA-196757,Metabolism of folate and pterines,Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-2408550,Metabolism of ingested H2SeO4 and H2SeO3 into H2Se,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-5263617,Metabolism of ingested MeSeO2H into MeSeH,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-2408508,"Metabolism of ingested SeMet, Sec, MeSec into H2Se",Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-556833,Metabolism of lipids,Homo sapiens,TRUE,,
+R-HSA-202131,Metabolism of nitric oxide: NOS3 activation and regulation,Homo sapiens,TRUE,,
+R-HSA-15869,Metabolism of nucleotides,Homo sapiens,TRUE,,
+R-HSA-351202,Metabolism of polyamines,Homo sapiens,TRUE,,
+R-HSA-189445,Metabolism of porphyrins,Homo sapiens,FALSE,,Not relevant
+R-HSA-196071,Metabolism of steroid hormones,Homo sapiens,TRUE,,
+R-HSA-8957322,Metabolism of steroids,Homo sapiens,TRUE,,
+R-HSA-6806664,Metabolism of vitamin K,Homo sapiens,TRUE,R-HSA-6806667,
+R-HSA-196854,Metabolism of vitamins and cofactors,Homo sapiens,TRUE,,
+R-HSA-196849,Metabolism of water-soluble vitamins and cofactors,Homo sapiens,TRUE,,
+R-HSA-1237112,Methionine salvage pathway,Homo sapiens,TRUE,,
+R-HSA-156581,Methylation,Homo sapiens,TRUE,,
+R-HSA-2408552,Methylation of MeSeH for excretion,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-193993,Mineralocorticoid biosynthesis,Homo sapiens,TRUE,R-HSA-196071,
+R-HSA-211958,Miscellaneous substrates,Homo sapiens,TRUE,R-HSA-211897,
+R-HSA-77289,Mitochondrial Fatty Acid Beta-Oxidation,Homo sapiens,TRUE,,
+R-HSA-166187,Mitochondrial Uncoupling,Homo sapiens,TRUE,R-HSA-163200,
+R-HSA-1362409,Mitochondrial iron-sulfur cluster biogenesis,Homo sapiens,TRUE,,
+R-HSA-947581,Molybdenum cofactor biosynthesis,Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-389542,NADPH regeneration,Homo sapiens,TRUE,R-HSA-8978934,
+R-HSA-203754,NOSIP mediated eNOS trafficking,Homo sapiens,TRUE,R-HSA-202131,
+R-HSA-203641,NOSTRIN mediated eNOS trafficking,Homo sapiens,TRUE,R-HSA-202131,
+R-HSA-197264,Nicotinamide salvaging,Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-196807,Nicotinate metabolism,Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-8956320,Nucleotide biosynthesis,Homo sapiens,TRUE,,
+R-HSA-8956319,Nucleotide catabolism,Homo sapiens,TRUE,,
+R-HSA-8956321,Nucleotide salvage,Homo sapiens,TRUE,,
+R-HSA-9673163,Oleoyl-phe metabolism,Homo sapiens,TRUE,R-HSA-163200,
+R-HSA-141334,PAOs oxidise polyamines to amines,Homo sapiens,TRUE,R-HSA-140179,
+R-HSA-1483255,PI Metabolism,Homo sapiens,TRUE,,
+R-HSA-1483196,PI and PC transport between ER and Golgi membranes,Homo sapiens,TRUE,R-HSA-1483257,
+R-HSA-1660510,PIPs transport between Golgi and plasma membranes,Homo sapiens,TRUE,R-HSA-1483255,
+R-HSA-1660502,PIPs transport between early and late endosome membranes,Homo sapiens,TRUE,R-HSA-1483256,
+R-HSA-1660537,PIPs transport between early endosome and Golgi membranes,Homo sapiens,TRUE,R-HSA-1483257,
+R-HSA-1660508,PIPs transport between late endosome and Golgi membranes,Homo sapiens,TRUE,R-HSA-1483258,
+R-HSA-1660524,PIPs transport between plasma and early endosome membranes,Homo sapiens,TRUE,R-HSA-1483259,
+R-HSA-164378,PKA activation in glucagon signalling,Homo sapiens,FALSE,,Not relevant
+R-HSA-163358,PKA-mediated phosphorylation of key metabolic factors,Homo sapiens,TRUE,,
+R-HSA-163767,PP2A-mediated dephosphorylation of key metabolic factors,Homo sapiens,TRUE,,
+R-HSA-1989781,PPARA activates gene expression,Homo sapiens,TRUE,R-HSA-400206,
+R-HSA-71336,Pentose phosphate pathway,Homo sapiens,TRUE,,
+R-HSA-390918,Peroxisomal lipid metabolism,Homo sapiens,TRUE,,
+R-HSA-211945,Phase I - Functionalization of compounds,Homo sapiens,TRUE,,
+R-HSA-156580,Phase II - Conjugation of compounds,Homo sapiens,TRUE,,
+R-HSA-8963691,Phenylalanine and tyrosine metabolism,Homo sapiens,TRUE,,
+R-HSA-8964208,Phenylalanine metabolism,Homo sapiens,TRUE,,
+R-HSA-8850843,Phosphate bond hydrolysis by NTPDase proteins,Homo sapiens,TRUE,R-HSA-8956319,
+R-HSA-2393930,Phosphate bond hydrolysis by NUDT proteins,Homo sapiens,TRUE,R-HSA-74259,
+R-HSA-1483257,Phospholipid metabolism,Homo sapiens,TRUE,,
+R-HSA-75896,Plasmalogen biosynthesis,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-196108,Pregnenolone biosynthesis,Homo sapiens,TRUE,R-HSA-196071,
+R-HSA-70688,Proline catabolism,Homo sapiens,TRUE,,
+R-HSA-71032,Propionyl-CoA catabolism,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-74259,Purine catabolism,Homo sapiens,TRUE,,
+R-HSA-73817,Purine ribonucleoside monophosphate biosynthesis,Homo sapiens,TRUE,,
+R-HSA-74217,Purine salvage,Homo sapiens,TRUE,,
+R-HSA-500753,Pyrimidine biosynthesis,Homo sapiens,TRUE,,
+R-HSA-73621,Pyrimidine catabolism,Homo sapiens,TRUE,,
+R-HSA-73614,Pyrimidine salvage,Homo sapiens,TRUE,,
+R-HSA-71737,Pyrophosphate hydrolysis,Homo sapiens,TRUE,,
+R-HSA-70268,Pyruvate metabolism,Homo sapiens,TRUE,,
+R-HSA-71406,Pyruvate metabolism and Citric Acid (TCA) cycle,Homo sapiens,TRUE,,
+R-HSA-159418,Recycling of bile acids and salts,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-170822,Regulation of Glucokinase by Glucokinase Regulatory Protein,Homo sapiens,TRUE,R-HSA-70171,
+R-HSA-1655829,Regulation of cholesterol biosynthesis by SREBP (SREBF),Homo sapiens,FALSE,,Not relevant
+R-HSA-9634600,"Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",Homo sapiens,TRUE,R-HSA-70171,
+R-HSA-422356,Regulation of insulin secretion,Homo sapiens,FALSE,,Not relevant
+R-HSA-400206,Regulation of lipid metabolism by PPARalpha,Homo sapiens,TRUE,,
+R-HSA-350562,Regulation of ornithine decarboxylase (ODC),Homo sapiens,TRUE,R-HSA-351202,
+R-HSA-204174,Regulation of pyruvate dehydrogenase (PDH) complex,Homo sapiens,TRUE,R-HSA-70268,
+R-HSA-350864,Regulation of thyroid hormone activity,Homo sapiens,TRUE,R-HSA-209776,
+R-HSA-611105,Respiratory electron transport,Homo sapiens,TRUE,R-HSA-163200,
+R-HSA-163200,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",Homo sapiens,TRUE,,
+R-HSA-1475029,Reversible hydration of carbon dioxide,Homo sapiens,FALSE,,Not relevant
+R-HSA-9037628,Rhesus blood group biosynthesis,Homo sapiens,FALSE,,Not relevant
+R-HSA-2408522,Selenoamino acid metabolism,Homo sapiens,FALSE,,Not relevant
+R-HSA-2408557,Selenocysteine synthesis,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-977347,Serine biosynthesis,Homo sapiens,TRUE,,
+R-HSA-209931,Serotonin and melatonin biosynthesis,Homo sapiens,TRUE,R-HSA-209776,
+R-HSA-1660661,Sphingolipid de novo biosynthesis,Homo sapiens,TRUE,,
+R-HSA-428157,Sphingolipid metabolism,Homo sapiens,TRUE,,
+R-HSA-211994,Sterols are 12-hydroxylated by CYP8B1,Homo sapiens,TRUE,R-HSA-211976,
+R-HSA-1614517,Sulfide oxidation to sulfate,Homo sapiens,TRUE,R-HSA-1614558,
+R-HSA-1614635,Sulfur amino acid metabolism,Homo sapiens,TRUE,,
+R-HSA-2142816,Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),Homo sapiens,TRUE,R-HSA-2142753,
+R-HSA-2142712,Synthesis of 12-eicosatetraenoic acid derivatives,Homo sapiens,TRUE,R-HSA-2142753,
+R-HSA-2142770,Synthesis of 15-eicosatetraenoic acid derivatives,Homo sapiens,TRUE,R-HSA-2142753,
+R-HSA-2142688,Synthesis of 5-eicosatetraenoic acids,Homo sapiens,TRUE,R-HSA-2142753,
+R-HSA-1483171,Synthesis of BMP,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-1483076,Synthesis of CL,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-2142696,Synthesis of Hepoxilins (HX) and Trioxilins (TrX),Homo sapiens,TRUE,R-HSA-2142753,
+R-HSA-1855183,"Synthesis of IP2, IP, and Ins in the cytosol",Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1855204,Synthesis of IP3 and IP4 in the cytosol,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1855231,Synthesis of IPs in the ER lumen,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-1855191,Synthesis of IPs in the nucleus,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-77111,Synthesis of Ketone Bodies,Homo sapiens,TRUE,R-HSA-74182,
+R-HSA-2142691,Synthesis of Leukotrienes (LT) and Eoxins (EX),Homo sapiens,TRUE,R-HSA-2142753,
+R-HSA-2142700,Synthesis of Lipoxins (LX),Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-1483166,Synthesis of PA,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-1483191,Synthesis of PC,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-1483213,Synthesis of PE,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-1483148,Synthesis of PG,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-1483226,Synthesis of PI,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-1483248,Synthesis of PIPs at the ER membrane,Homo sapiens,TRUE,R-HSA-1483255,
+R-HSA-1660514,Synthesis of PIPs at the Golgi membrane,Homo sapiens,TRUE,R-HSA-1483255,
+R-HSA-1660516,Synthesis of PIPs at the early endosome membrane,Homo sapiens,TRUE,R-HSA-1483255,
+R-HSA-1660517,Synthesis of PIPs at the late endosome membrane,Homo sapiens,TRUE,R-HSA-1483255,
+R-HSA-1660499,Synthesis of PIPs at the plasma membrane,Homo sapiens,TRUE,R-HSA-1483255,
+R-HSA-8847453,Synthesis of PIPs in the nucleus,Homo sapiens,TRUE,R-HSA-1483255,
+R-HSA-1483101,Synthesis of PS,Homo sapiens,TRUE,R-HSA-1483206,
+R-HSA-2162123,Synthesis of Prostaglandins (PG) and Thromboxanes (TX),Homo sapiens,TRUE,R-HSA-2142753,
+R-HSA-192105,Synthesis of bile acids and bile salts,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-193775,Synthesis of bile acids and bile salts via 24-hydroxycholesterol,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-193807,Synthesis of bile acids and bile salts via 27-hydroxycholesterol,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-193368,Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-2142670,Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),Homo sapiens,TRUE,R-HSA-2142753,
+R-HSA-1855167,Synthesis of pyrophosphates in the cytosol,Homo sapiens,TRUE,R-HSA-1483249,
+R-HSA-75876,Synthesis of very long-chain fatty acyl-CoAs,Homo sapiens,TRUE,R-HSA-75105,
+R-HSA-1474151,"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",Homo sapiens,TRUE,R-HSA-8978934,
+R-HSA-1428517,The citric acid (TCA) cycle and respiratory electron transport,Homo sapiens,TRUE,,
+R-HSA-167826,The fatty acid cycling model,Homo sapiens,TRUE,R-HSA-163200,
+R-HSA-167827,The proton buffering model,Homo sapiens,TRUE,R-HSA-163200,
+R-HSA-8849175,Threonine catabolism,Homo sapiens,TRUE,,
+R-HSA-209968,Thyroxine biosynthesis,Homo sapiens,TRUE,R-HSA-209776,
+R-HSA-174362,Transport and synthesis of PAPS,Homo sapiens,TRUE,R-HSA-1630316,
+R-HSA-75109,Triglyceride biosynthesis,Homo sapiens,TRUE,,
+R-HSA-163560,Triglyceride catabolism,Homo sapiens,TRUE,,
+R-HSA-8979227,Triglyceride metabolism,Homo sapiens,TRUE,,
+R-HSA-71240,Tryptophan catabolism,Homo sapiens,TRUE,,
+R-HSA-8963684,Tyrosine catabolism,Homo sapiens,TRUE,,
+R-HSA-2142789,Ubiquinol biosynthesis,Homo sapiens,TRUE,R-HSA-8978934,
+R-HSA-70635,Urea cycle,Homo sapiens,TRUE,,
+R-HSA-77108,Utilization of Ketone Bodies,Homo sapiens,TRUE,R-HSA-8978934,
+R-HSA-196819,Vitamin B1 (thiamin) metabolism,Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-196843,Vitamin B2 (riboflavin) metabolism,Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-199220,Vitamin B5 (pantothenate) metabolism,Homo sapiens,TRUE,,
+R-HSA-196836,Vitamin C (ascorbate) metabolism,Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-196791,Vitamin D (calciferol) metabolism,Homo sapiens,FALSE,,Not relevant
+R-HSA-8877627,Vitamin E,Homo sapiens,TRUE,R-HSA-6806667,
+R-HSA-211916,Vitamins,Homo sapiens,TRUE,,
+R-HSA-964975,Vitamins B6 activation to pyridoxal phosphate,Homo sapiens,TRUE,R-HSA-196849,
+R-HSA-8848584,Wax and plasmalogen biosynthesis,Homo sapiens,FALSE,,Not relevant
+R-HSA-9640463,Wax biosynthesis,Homo sapiens,FALSE,,Parent removed; not relevant
+R-HSA-211981,Xenobiotics,Homo sapiens,FALSE,,Not relevant
+R-HSA-2046104,alpha-linolenic (omega3) and linoleic (omega6) acid metabolism,Homo sapiens,TRUE,,
+R-HSA-2046106,alpha-linolenic acid (ALA) metabolism,Homo sapiens,TRUE,R-HSA-2046104,
+R-HSA-203615,eNOS activation,Homo sapiens,TRUE,R-HSA-202131,
+R-HSA-77286,mitochondrial fatty acid beta-oxidation of saturated fatty acids,Homo sapiens,TRUE,R-HSA-77289,
+R-HSA-77288,mitochondrial fatty acid beta-oxidation of unsaturated fatty acids,Homo sapiens,TRUE,R-HSA-77289,
