@@ -2,6 +2,7 @@ import argparse
 import numpy as np
 import pandas as pd
 import pickle
+import requests
 from tqdm import tqdm
 
 
@@ -83,6 +84,19 @@ def get_pathway_mappings(ensembl_gene_ids, reactome_data, pathways_to_report):
     return pathway_mappings
 
 
+def get_reactions(ensembl_gene_ids, reactions_data):
+    gene_info = [["ensembl_gene_id", "event_name"]]
+    for ensembl_gene_id in tqdm(ensembl_gene_ids):
+        result_rows = reactions_data[reactions_data["ensembl_gene_id"] == \
+                                    ensembl_gene_id]
+        # The same reaction can occur multiple places in the metabolic map
+        # Remove duplicated event_names
+        events = result_rows["event_name"].drop_duplicates().tolist()
+        print(events)
+        print()
+    return gene_info
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-i", type=str, help="file path to the Excel workbook")
@@ -97,8 +111,12 @@ if __name__ == "__main__":
                         default="./hgnc_complete_set.txt")
     parser.add_argument("-m", type=str,
                         help=("file path to the .txt-formatted " +
-                              "Ensembl2Reactome mapping file"),
+                              "Ensembl2Reactome pathway mapping file"),
                         default="./Ensembl2Reactome_Homo_sapiens.txt")
+    parser.add_argument("-r", type=str,
+                        help=("file path to the .txt-formatted " +
+                              "Ensembl2Reactome reaction mapping file"),
+                        default="./Ensembl2ReactomeReactions_Homo_sapiens.txt")
 
     flags = parser.parse_args()
 
@@ -127,10 +145,19 @@ if __name__ == "__main__":
                                        "species"]
                                 )
 
+    # Load Reactome reaction file
+    print("Loading reactions...")
+    reactions_data = pd.read_csv(flags.r, sep="\t",
+                                names=["ensembl_gene_id", "reactome_id",
+                                       "url", "event_name", "evidence_code",
+                                       "species"]
+                                )
+
     # Get gene info for each gene symbol in the Excel workbook
     print("Getting gene information for gene symbols...")
     gene_info = get_gene_info(excel_data[flags.n], hgnc_data)
     gene_info = pd.DataFrame(gene_info[1:], columns=gene_info[0])
+    reaction_info = get_reactions(gene_info["ensembl_gene_id"], reaction_data)
 
     # If an in/exclusion file of pathways is provided, collapse pathway mappings
     # to the level reported, then get pathway mappings for each of the ENSEMBL
